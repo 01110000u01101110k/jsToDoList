@@ -1,3 +1,3 @@
 # JavaScript To-Do List
 
-Wrote the simplest to-do list SPA using JavaScript.
+Wrote the simplest to-do list using JavaScript.
